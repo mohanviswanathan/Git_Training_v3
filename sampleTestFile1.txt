@@ -1,2 +1,5 @@
+GIT revert commit 1
 This is Sample File 1
 Adding additinal text to this file.
+=======
+This is a comparision lecture
